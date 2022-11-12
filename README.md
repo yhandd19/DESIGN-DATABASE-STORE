@@ -1,5 +1,5 @@
 # E R D
 
-## db-store_tpa-4
+## DB_Store_Tpa_4
 
-![ERD](./gambar/db-store_tpa-4.png)
+![ERD](./gambar/tpa4.png)

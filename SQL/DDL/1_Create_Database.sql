@@ -1,0 +1,4 @@
+CREATE DATABASE DB_Store_Tpa_4
+
+USE DB_Store_Tpa_4;
+
