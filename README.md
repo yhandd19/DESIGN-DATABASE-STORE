@@ -2,4 +2,4 @@
 
 ## DB_Store_Tpa_4
 
-![ERD](./gambar/tpa4.png)
+![ERD](./gambar/tpa-4.png)
